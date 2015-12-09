@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Component Game", "Component Game\Component Game.csproj", "{F8CD7C52-28A2-49FF-98A2-771AA2A485BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA4B7290-C897-4E68-81A2-1669AD2C0921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CD7C52-28A2-49FF-98A2-771AA2A485BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CD7C52-28A2-49FF-98A2-771AA2A485BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CD7C52-28A2-49FF-98A2-771AA2A485BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CD7C52-28A2-49FF-98A2-771AA2A485BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
