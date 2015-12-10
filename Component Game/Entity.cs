@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Windows;
 
 namespace Component_Game {
     class Entity {
@@ -6,12 +7,14 @@ namespace Component_Game {
         public int Y { get; set; }
         List<Component> components = new List<Component>();
         List<Component> removeComponentsList = new List<Component>();
+        
 
         public void AddComponent( Component component ) {
             component.Container = this;
             components.Add( component );
             component.Adding();
         }
+
         public void Update() {
             foreach ( Component component in components ) {
                 component.Update();
@@ -24,6 +27,7 @@ namespace Component_Game {
             }
             removeComponentsList.Clear();
         }
+
         public T GetComponent<T>() where T : Component {
             foreach(Component component in components){
                 T componentAsT = component as T;

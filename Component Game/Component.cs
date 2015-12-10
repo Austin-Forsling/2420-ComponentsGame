@@ -8,6 +8,7 @@
         }
 
         public virtual void Adding() { }
+
         public virtual void Update() { }
     }
 }

@@ -8,6 +8,7 @@ namespace Component_Game.Components {
             mover = Container.GetComponent<KeyboardMoverComponent>();
             mover.Speed = 2;
         }
+
         public override void Update() {
             if ( ++turnsActive == 3 ) {
                 mover.Speed = 1;

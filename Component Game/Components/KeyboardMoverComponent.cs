@@ -7,8 +7,8 @@ namespace Component_Game.Components {
         public KeyboardMoverComponent() {
             Speed = 1;
         }
+
         public override void Update(){
-            Console.WriteLine("WASD!!!!");
             char key = Console.ReadLine()[0];
             if ( key == 'w' ) {
                 Container.Y += Speed;
@@ -19,7 +19,7 @@ namespace Component_Game.Components {
             if ( key == 'a' ) {
                 Container.X -= Speed;
             }
-            if(key=='d'){
+            if ( key == 'd' ) {
                 Container.X += Speed;
             }
         }
