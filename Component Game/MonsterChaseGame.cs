@@ -35,8 +35,8 @@ namespace Component_Game {
 
         public void start() {
             while ( true ) {
-                player.Update();
                 DrawBoard();
+                player.Update();               
             }
         }
     }
