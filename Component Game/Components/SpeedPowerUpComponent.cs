@@ -6,7 +6,9 @@ namespace Component_Game.Components {
 
         public override void Adding() {
             mover = Container.GetComponent<KeyboardMoverComponent>();
-            mover.Speed = 2;
+            if (mover != null){
+                mover.Speed = 2;
+            }
         }
 
         public override void Update() {

@@ -5,6 +5,7 @@ namespace Component_Game {
     class Entity {
         public int X { get; set; }
         public int Y { get; set; }
+        public char Sprite { get; set; }
         List<Component> components = new List<Component>();
         List<Component> removeComponentsList = new List<Component>();
         

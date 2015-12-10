@@ -9,11 +9,11 @@ namespace Component_Game.Components {
             if ( Container.X < -11 ) {
                 Container.X = 11;
             }
-            if ( Container.Y > 11 ) {
-                Container.Y = -11;
+            if ( Container.Y > 8 ) {
+                Container.Y = -8;
             }
-            if ( Container.Y < -11 ) {
-                Container.Y = 11;
+            if ( Container.Y < -8 ) {
+                Container.Y = 8;
             }
         }
     }

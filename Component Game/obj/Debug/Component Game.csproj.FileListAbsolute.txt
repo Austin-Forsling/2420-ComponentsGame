@@ -10,3 +10,9 @@ C:\Users\u0802791\Documents\Visual Studio 2012\Projects\2420-ComponentsGame\Comp
 C:\Users\u0802791\Documents\Visual Studio 2012\Projects\2420-ComponentsGame\Component Game\bin\Debug\Component Game.exe
 C:\Users\u0802791\Documents\Visual Studio 2012\Projects\2420-ComponentsGame\Component Game\bin\Debug\Component Game.pdb
 C:\Users\u0802791\Documents\Visual Studio 2012\Projects\2420-ComponentsGame\Component Game\obj\Debug\Component Game.csprojResolveAssemblyReference.cache
+C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\bin\Debug\Component Game.exe.config
+C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\bin\Debug\Component Game.exe
+C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\bin\Debug\Component Game.pdb
+C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\obj\Debug\Component Game.csprojResolveAssemblyReference.cache
+C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\obj\Debug\Component Game.exe
+C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\obj\Debug\Component Game.pdb
