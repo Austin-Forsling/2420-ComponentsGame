@@ -33,9 +33,6 @@ namespace Component_Game {
                     }
                     else if (x == 23) {
                         charArray.Add('|');
-                        if (y == 0) {
-                            Console.Write("  Monster Chase!");
-                        }
                     }
                     else if (y == 17) {
                         charArray.Add('-');
