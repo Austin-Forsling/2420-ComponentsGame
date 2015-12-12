@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Component.cs" />
+    <Compile Include="Components\AIMoverComponent.cs" />
     <Compile Include="Components\KeepInBoundsComponent.cs" />
+    <Compile Include="Components\KillOnContactComponent.cs" />
     <Compile Include="Components\SpeedPowerUpComponent.cs" />
     <Compile Include="Entity.cs" />
     <Compile Include="Components\KeyboardMoverComponent.cs" />

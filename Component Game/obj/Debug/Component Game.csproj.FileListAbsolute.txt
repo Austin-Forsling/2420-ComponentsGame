@@ -16,3 +16,9 @@ C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\bin\Debug\
 C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\obj\Debug\Component Game.csprojResolveAssemblyReference.cache
 C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\obj\Debug\Component Game.exe
 C:\Users\u0802791\Documents\GitHub\2420-ComponentsGame\Component Game\obj\Debug\Component Game.pdb
+C:\Users\Austin\Documents\EAE2420\C# Homeworks\2420-ComponentsGame\Component Game\bin\Debug\Component Game.exe.config
+C:\Users\Austin\Documents\EAE2420\C# Homeworks\2420-ComponentsGame\Component Game\bin\Debug\Component Game.exe
+C:\Users\Austin\Documents\EAE2420\C# Homeworks\2420-ComponentsGame\Component Game\bin\Debug\Component Game.pdb
+C:\Users\Austin\Documents\EAE2420\C# Homeworks\2420-ComponentsGame\Component Game\obj\Debug\Component Game.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\EAE2420\C# Homeworks\2420-ComponentsGame\Component Game\obj\Debug\Component Game.exe
+C:\Users\Austin\Documents\EAE2420\C# Homeworks\2420-ComponentsGame\Component Game\obj\Debug\Component Game.pdb
